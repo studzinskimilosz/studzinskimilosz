@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">* Aspiring quatn (quantitative trader/developer), statistics enthusiast.<br><br>* Strong interest in risk analysis, quantitative finance, portfolio optimization, statistics/probability, financial econometrics, time series analysis/modeling, FinTech.<br><br>* Im currently working on Investment portfolio manager system in JAVA.<br><br>* Next goal: developing skills in quantitative methods, including time series analysis, financial econometrics, and related areas.</p>
+<p align="left">* Aspiring data scientist, statistics enthusiast.<br><br>* Strong interest in risk analysis, quantitative finance, portfolio optimization, statistics/probability, financial econometrics, time series analysis/modeling, FinTech.<br><br>* Im currently working on Investment portfolio manager system in JAVA.<br><br>* Next goal: developing skills in quantitative methods, including time series analysis, financial econometrics, and related areas.</p>
 
 ###
 
