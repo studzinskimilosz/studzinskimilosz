@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Data Scientist | Data Engineer
 
-I am an Informatics and Data Scientist/Engineer student at the Poznań University of Economics and Business, specializing in Financial Engineering. I am passionate about data processing, relational databases, and building robust ETL pipelines, mathematics, quantitative finance, finance engineering. Currently, I am expanding my knowledge in Data Warehousing and looking for opportunities to grow in this field.
+I am an Informatics and Data Scientist student at the Poznań University of Economics and Business, specializing in Financial Engineering. I am passionate about data processing, relational databases, and building robust ETL pipelines, mathematics, quantitative finance, finance engineering. Currently, I am expanding my knowledge in Data Warehousing and looking for opportunities to grow in this field.
 
 ### 🛠️ Tech Stack & Tools
 
